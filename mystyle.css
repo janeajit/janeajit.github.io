@@ -14,7 +14,28 @@ h3 {
  text-align: center;
  border: 3px groove black;
 }
-p {
+div {
   text-align: justify;
+  font-size:16px;
  }
- 
+ table{
+	 margin-right:0;
+	 margin-left:0;
+	 margin-bottom:0;
+	 margin-top:0;
+	 padding-bottom:0;
+	 padding-left:0;
+	 padding-right:0;
+	 padding-top:0;
+	 
+	     vertical-align: baseline;
+ }
+ td{
+	     font-size: inherit;
+    font-family: inherit;
+    line-height: inherit;
+    font-weight: normal;
+         border-spacing: auto;
+		  display: table-cell;
+         
+}
